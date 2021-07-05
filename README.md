@@ -1,6 +1,6 @@
 # Movie-Compare-API
 
-## Pick two movies and the app will compare their data! (AJAX) :movie_camera: VS :movie_camera:
+## Pick two movies and the app will compare their data! (AJAX) :movie_camera: VS :cinema:
 
 ### Functionalities
 * select two movies
