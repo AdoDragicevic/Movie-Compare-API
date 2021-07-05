@@ -1,6 +1,14 @@
 # Movie-Compare-API
-User interface &amp; AJAX
 
-- search for movies (imdb API)
-- pick 2 movies and list their info
-- app compares them and styles the infor accordingly
+## Pick two movies and the app will compare their data! (AJAX) :movie_camera: VS :movie_camera:
+
+### Functionalities
+* select two movies
+* app displays movie data
+* styling is applied to compare movie data and show the "winner" in each category
+
+### Using
+* axios.js
+* imdb API
+* Vanilla JS
+* Bulma
