@@ -2,6 +2,10 @@
 
 ## Pick two movies and the app will compare their data! (AJAX) :movie_camera: VS :cinema:
 
+### Try it on Vercel
+
+https://moviecompare-adodragicevic.vercel.app/
+
 ### Functionalities
 * select two movies
 * app displays movie data
