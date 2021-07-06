@@ -1,6 +1,6 @@
 # Movie-Compare-API
 
-## Pick two movies and the app will compare their data! (AJAX) :movie_camera: VS :cinema:
+## Pick two movies and the app will compare their data! (AJAX) :movie_camera: VS :clapper:
 
 ### Try it on Vercel
 
